@@ -1,6 +1,6 @@
 # raspberrypi
 
-This repo contains the some of the Raspberry Pi codes.
+This repo contains the some of my Raspberry Pi codes.
 
 hum_sensor.py is a code that tracks the temperature and humidity using SHT30 sensor. The code is written in Python. It reads the data from the sensor using System Management Bus (SMBus) protocol and writes the collected data in a specified directory as a csv file. The csv file contains the mac address of the device, date, time, temperature and humidity. The csv file looks as follows
 
